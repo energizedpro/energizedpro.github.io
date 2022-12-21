@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+<head>
+  <link rel="stylesheet" href="/path/to/style.css">
+</head>
 body {
   background-color: lightblue;
 }
