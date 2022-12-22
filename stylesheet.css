@@ -1,0 +1,9 @@
+<head>
+<link rel="stylesheet" href="path/to/style.css">  
+</head>
+#green-button {
+    transition: transform 0.2s; 
+}
+#green-button:hover {
+  transform: scale(1.1);
+}
