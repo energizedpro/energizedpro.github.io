@@ -1,11 +1,12 @@
+#green-button {
+  transition: transform 0.5s;
+}
+
 #green-button:hover {
   scale: 1.1;
   transform-origin: 50% 50%;
 }
-#green-button {
-  transition-property: transform;
-  transition-duration: 0.5s;
-}
+
 .arial {
   font-family: Arial;
   margin-top: 20px;
