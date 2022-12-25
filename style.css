@@ -6,3 +6,8 @@
   transition-property: transform;
   transition-duration: 0.5s;
 }
+.arial {
+  font-family: Arial;
+  margin-top: 20px;
+}
+
