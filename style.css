@@ -12,4 +12,21 @@
   font-family: Arial;
   margin-top: 20px;
 }
+<style>
+  .center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  #green-button {
+    background-color: limegreen;
+    border-radius: 25%;
+    width: 170px;
+    height: 90px;
+    font-size: 20px; 
+    text-align: center;
+    margin-top: 20px;
+  }
+</style>
 
